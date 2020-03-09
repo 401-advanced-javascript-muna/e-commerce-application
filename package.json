@@ -1,0 +1,43 @@
+{
+  "name": "e-commerce-application",
+  "version": "1.0.0",
+  "description": "### Author: Muna",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-redux": "^7.2.0",
+    "react-dom": "^16.13.0",
+    "react-scripts": "^3.4.0",
+    "redux-mock-store": "^1.5.4",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-muna/e-commerce-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-muna/e-commerce-application/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-muna/e-commerce-application/",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
